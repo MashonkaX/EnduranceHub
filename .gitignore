@@ -1,0 +1,26 @@
+# Игнорировать системные папки и файлы
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.bak
+
+# Игнорировать все папки, которые не относятся к проекту
+Application Data/
+Cookies/
+Local Settings/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Favorites/
+Links/
+MicrosoftEdgeBackups/
+OneDrive/
+Saved Games/
+Searches/
+
+# Игнорировать другие не нужные файлы и папки
+.vscode/
+.idea/
+node_modules/
